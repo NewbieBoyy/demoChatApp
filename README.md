@@ -19,3 +19,8 @@ https://www.crowdbotics.com/blog/build-chat-app-with-nodejs-socket-io
 ```bash
   npm init 
 ```
+To run it 
+```bash
+  npm start
+```
+
