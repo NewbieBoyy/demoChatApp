@@ -14,3 +14,8 @@ Node,Express,IoSocket(library)
 
 # Demo
 https://www.crowdbotics.com/blog/build-chat-app-with-nodejs-socket-io
+
+## Deployment
+```bash
+  npm init 
+```
